@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Ph.D. candidate in the [Department of Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University, advised by [Prof. Ruby B. Lee](http://www.princeton.edu/~rblee/). I earned my Bachelor of Engineering degree from the [Department of Microelectronics](https://www.sic.tsinghua.edu.cn/en/) at Tsinghua University in 2016.
 
-My primary research focus lies at the intersection of computer architecture, security, and machine learning, with the goal of developing efficient methods for attack detection and mitigation. I built versatile hardware modules that support machine learning algorithms for anomaly detection. I designed security measures enhancing the processor security, particularly through the design of security caches aimed at thwarting side-channel attacks and speculative execution attacks.
+My primary research focus lies at the intersection of computer architecture, security, and machine learning, with the goal of developing efficient methods for attack detection and mitigation. I built versatile hardware modules that support machine learning and statistical algorithms for anomaly detection. I designed hardware features for enhancing processor security, particularly through the design of secure caches aimed at thwarting side-channel attacks and speculative execution attacks.
 
 **Publications**
 ------
