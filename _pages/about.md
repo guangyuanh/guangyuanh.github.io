@@ -36,36 +36,37 @@ My primary research focus lies at the intersection of computer architecture, sec
 **Education**
 ------
 
-Ph. D. Candidate  <div style="text-align: right">2018 -- Present</div>
-    Department of Electrical and Computer Engineering, Princeton University, USA
-
-  * Master of Arts  <div style="text-align: right;">2016 -- 2018</div>
+  * (2018 -- Present) Ph. D. Candidate
 
     Department of Electrical and Computer Engineering, Princeton University, USA
-  * Bachelor of Engineering with Distinction  <span style="text-align: right;">2012 -- 2016</span>
+
+  * (2016 -- 2018) Master of Arts  
+
+    Department of Electrical and Computer Engineering, Princeton University, USA
+
+  * (2012 -- 2016) Bachelor of Engineering with Distinction
 
     Department of Microelectronics, Tsinghua University, China
-<!--
+
 **Awards**
 ------
 
-  * Best Paper Award, TinyML Research Symposium  <div style="text-align: right;">2021</div>
-  * First-place Recipient of Scholarship for Siemens FutureMakers Challenge, Princeton University  <div style="text-align: right;">2018</div>
-  * Scholarship for Academic Excellence, Tsinghua University  <div style="text-align: right;">2013,2014,2015</div>
+  * (2021) Best Paper Award, TinyML Research Symposium
+  * (2018) First-place Recipient of Scholarship for Siemens FutureMakers Challenge, Princeton University
+  * (2013,2014,2015) Scholarship for Academic Excellence, Tsinghua University
 
 **Presentations and Posters**
 ------
 
-  * "Tiny AI Module for Detecting Smartphone Theft and Anomalous Behavior". Celebrate Princeton Innovation.  <div style="text-align: right;">December 2021</div>
-  * "New Models for Understanding and Reasoning about Speculative Execution Attacks". Virtual UIUC Hardware Security Seminar.  <div style="text-align: right;">August 2021</div>
-  * "SID: A Tiny Self-contained Hardware Module for Smartphone Impostor Detection". New England Hardware Security Day.  <div style="text-align: right;">April 2021</div>
-  * "Scope of Hardware Defenses Against Speculative Execution Attacks". SRC TECHCON Conference. <div style="text-align: right;">September 2020</div>
+  * (2021) "Tiny AI Module for Detecting Smartphone Theft and Anomalous Behavior". Celebrate Princeton Innovation.
+  * (2021) "New Models for Understanding and Reasoning about Speculative Execution Attacks". Virtual UIUC Hardware Security Seminar.
+  * (2021) "SID: A Tiny Self-contained Hardware Module for Smartphone Impostor Detection". New England Hardware Security Day.
+  * (2020) "Scope of Hardware Defenses Against Speculative Execution Attacks". SRC TECHCON Conference.
 
 **Teaching and Mentoring**
 ------
 
-  * Undergraduate Thesis Mentoring, Princeton University  <div style="text-align: right;">Fall 2021 to Spring 2022</div>
-  * Undergraduate Thesis Mentoring, Princeton University  <div style="text-align: right;">Spring 2021</div>
-  * Teaching Assistant, Architectures for Secure Computers and Smartphones, Princeton University  <div style="text-align: right;">Fall 2020</div>
-  * Teaching Assistant, Information Signals, Princeton University  <div style="text-align: right;">Spring 2019</div>
--->
+  * (Spring 2022) Undergraduate Thesis Mentoring, Princeton University
+  * (Spring 2021) Undergraduate Thesis Mentoring, Princeton University
+  * (Fall 2020) Teaching Assistant, Architectures for Secure Computers and Smartphones, Princeton University
+  * (Spring 2019) Teaching Assistant, Information Signals, Princeton University
