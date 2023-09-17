@@ -36,13 +36,16 @@ My primary research focus lies at the intersection of computer architecture, sec
 **Education**
 ------
 
-  * Ph. D. Candidate  <div style="text-align: right">2018 -- Present</div>
+Ph. D. Candidate  <div style="text-align: right">2018 -- Present</div>
     Department of Electrical and Computer Engineering, Princeton University, USA
-  * Master of Arts  <div style="text-align: right;">2016 -- 2018</div>
-    Department of Electrical and Computer Engineering, Princeton University, USA
-  * Bachelor of Engineering with Distinction  <div style="text-align: right;">2012 -- 2016</div>
-    Department of Microelectronics, Tsinghua University, China
 
+  * Master of Arts  <div style="text-align: right;">2016 -- 2018</div>
+
+    Department of Electrical and Computer Engineering, Princeton University, USA
+  * Bachelor of Engineering with Distinction  <span style="text-align: right;">2012 -- 2016</span>
+
+    Department of Microelectronics, Tsinghua University, China
+<!--
 **Awards**
 ------
 
@@ -65,3 +68,4 @@ My primary research focus lies at the intersection of computer architecture, sec
   * Undergraduate Thesis Mentoring, Princeton University  <div style="text-align: right;">Spring 2021</div>
   * Teaching Assistant, Architectures for Secure Computers and Smartphones, Princeton University  <div style="text-align: right;">Fall 2020</div>
   * Teaching Assistant, Information Signals, Princeton University  <div style="text-align: right;">Spring 2019</div>
+-->
